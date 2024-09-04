@@ -8,7 +8,7 @@ console.log("Sizning yoshingiz: " + age)
 
 var misol = prompt("6+3=?")
 
-  console.log("6+3=" + misol)
+console.log("6+3=" + misol)
 
 var misol = prompt("25-19=?")
 
